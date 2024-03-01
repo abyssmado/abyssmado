@@ -5,17 +5,21 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abyssmado&icons=true&theme=gotham)](https://github.com/abyssmado/github-readme-stats)
 -->
 # Skills
+
 <div style="display: inline_block"><br>
-  <img align="center" alt="Denis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Denis-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Denis-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Denis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Denis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Denis-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Denis-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Skill-tree-1" src="https://skillicons.dev/icons?i=aws,js,ts,nodejs,react,python,cs,html,css,tailwind">
 </div>
-  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Skill-tree-2" src="https://skillicons.dev/icons?i=mysql,dynamodb,prisma,unity,windows,linux">
+</div>
+
+# Certifications
+<div style="display: inline_block">
+  <img align="center" weight="120" height="120" alt="skill-certifications" src="https://github.com/abyssmado/abyssmado/assets/85955679/e60a6658-a3ef-474c-90ff-adb004d20e13">
+</div>
+
   ##
+  
  <!-- Links -->
 <div> 
   <a href="https://www.instagram.com/abyssmado_">
@@ -25,8 +29,7 @@
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
   <a href="https://www.linkedin.com/in/denis-amorim-rodrigues-vieira-428982221/">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/linkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
-  
 </div>
 
