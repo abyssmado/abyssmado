@@ -7,10 +7,7 @@
 # Skills
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Skill-tree-1" src="https://skillicons.dev/icons?i=aws,ts,nodejs,react,tailwind">
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Skill-tree-2" src="https://skillicons.dev/icons?i=cs,mysql,dynamodb,prisma,windows,linux">
+  <img align="center" alt="Skill-tree-1" src="https://skillicons.dev/icons?i=aws,ts,cs,nodejs,react,tailwind,mysql,dynamodb,prisma,windows,linux">
 </div>
 
 # Certifications
