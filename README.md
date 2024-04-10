@@ -19,9 +19,6 @@
   
  <!-- Links -->
 <div> 
-  <a href="https://www.instagram.com/abyssmado_">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
   <a href = "mailto:denisamorim11@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
@@ -29,4 +26,5 @@
     <img src="https://img.shields.io/badge/linkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
 </div>
+
 
