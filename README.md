@@ -1,4 +1,4 @@
-## Olá, eu me chamo Denis Amorim e sou Desenvolvedor Fullstack. Atualmente trabalho com Typescript, Node.js e AWS como principais tecnologias da minha stack, porém possuo conhecimento em React e Tailwind. Atualmente estou estudando .NET para transforma-lá na minha tecnologia principal.
+## Olá, eu me chamo Denis Amorim e sou Desenvolvedor Fullstack. Atualmente trabalho com Typescript, Node.js e AWS como principais tecnologias da minha stack, porém possuo conhecimento em React e Tailwind.
 
 <!--
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=abyssmado&show_icons=true&theme=gotham)
