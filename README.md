@@ -4,7 +4,7 @@
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=abyssmado&show_icons=true&theme=gotham)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abyssmado&icons=true&theme=gotham)](https://github.com/abyssmado/github-readme-stats)
 -->
-# Skills
+# Hard skills
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Skill-tree-1" src="https://skillicons.dev/icons?i=aws,ts,dotnet,nodejs,mysql,dynamodb,prisma,docker,linux">
