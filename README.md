@@ -13,10 +13,7 @@
 # Certifications
 <div style="display: inline_block">
   <img align="center" weight="120" height="120" alt="skill-certifications" src="https://github.com/abyssmado/abyssmado/assets/85955679/e60a6658-a3ef-474c-90ff-adb004d20e13">
-</div>
-<div style="display: inline_block">
-  <img align="center" weight="120" height="120" alt="skill-certifications" src="![AWS-Certified-Developer-Associate_badge 5c083fa855fe82c1cf2d0c8b883c265ec72a17c0](https://github.com/user-attachments/assets/85bbe0f8-7cfe-4c62-815d-bd11d887648c)
-">
+  <img align="center" weight="120" height="120" alt="skill-certifications" src="https://github.com/user-attachments/assets/84887aad-1f8a-4315-aae0-7a157076d13d">
 </div>
 
   ##
