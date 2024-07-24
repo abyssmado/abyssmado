@@ -7,7 +7,7 @@
 # Hard skills
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Skill-tree-1" src="https://skillicons.dev/icons?i=aws,ts,dotnet,nodejs,mysql,dynamodb,prisma,docker,linux">
+  <img align="center" alt="Skill-tree-1" src="https://skillicons.dev/icons?i=aws,ts,dotnet,java,nodejs,mysql,dynamodb,prisma,docker,linux">
 </div>
 
 # Certifications
